@@ -1,0 +1,216 @@
+{
+    "questions":[
+        {
+            "id":1,
+            "text":"Vad är ett projekt? Definiera och förklara."
+        },
+        {
+            "id":2,
+            "text":"Vad handlade Milgrams lydnadsexperiment om, och vad blev resultatet?"
+        },
+        {
+            "id":3,
+            "text":"Förklara på vilket sätt det är en balansakt att vara ledare/chef."
+        },
+        {
+            "id":4,
+            "text":"Som projektledare bör man klargöra sin roll gentemot chefen (uppdragsgivaren i egna organisationen, projektledarens chef). Vilken är chefens roll för projektet? Ge exempel på hur chefens och projektledarens olika perspektiv kan komplettera varandra."
+        },
+        {
+            "id":5,
+            "text":"Förklara en traditionell respektive agil projektmodell."
+        },
+        {
+            "id":6,
+            "text":"Skillnaden i kompetens mellan medel/dåliga och bra projektledare syns bland annat i förmågan att ha koll på helheten/visionen samtidigt med fortskridandet i projektet. Förklara övriga förmågor och dess betydelse med stöd av begrepp och principer ur kursen"
+        },
+        {
+            "id":7,
+            "text":"Vad är skillnaden mellan en chef och en ledare?"
+        },
+        {
+            "id":8,
+            "text":"Vilka fördelar och nackdelar finns med en auktoritär respektive demokratisk ledarstil? Resonera med modeller och principer som används under kursen!"
+        },
+        {
+            "id":9,
+            "text":"Ledarskap och CSR handlar till stor del om att vinna förtroende. Förklara fyra sätt att vinna förtroende!"
+        },
+        {
+            "id":10,
+            "text":"Ett situationsanpassat ledarskap kan bl.a. bero på utvecklingsnivån hos personalen. Det situationsanpassade ledarskapet kan beskrivas med fyra olika ledarskapsbeteenden som matcher fyra olika utvecklingsnivåer hos personalen, förklara dessa och illustrera med en figur."
+        },
+        {
+            "id":11,
+            "text":"Förklara Rendahls modell för ledarskap kopplat till drivkrafter!"
+        },
+        {
+            "id":12,
+            "text":"Människor med olika drivkrafter har olika krav och beroende av ledarskap. Förklara bakomliggande drivkrafter till arbetets mening och värdering."
+        },
+        {
+            "id":13,
+            "text":"Vad är en visslare och vilka egenskaper brukar en sådan person inneha? Vad är viktigt att tänka på som individ och organisation för att hantera ämnet/frågan som visslaren uppmärksammar?"
+        },
+        {
+            "id":14,
+            "text":"Förklara med stöd av en figur vad systematiskt arbetsmiljöarbete (SAM) innebär! Varför är det viktigt?"
+        },
+        {
+            "id":15,
+            "text":"Vad är syftet och vinsterna med att tillämpa 5S (sortera, systematisera, städa, sköta och standardisera)?"
+        },
+        {
+            "id":16,
+            "text":"Hur bör en strukturerad Introduktion av nyanställd personal gå till? Varför är det viktigt?"
+        },
+        {
+            "id":17,
+            "text":"Diskrimineringslagen talar om sex olika former av diskriminering. Vilka är dessa? Ge exempel och förklara också vart du vänder dig som anställd eller chef."
+        },
+        {
+            "id":18,
+            "text":"Som deltagare i en grupp bör man reflektera över begreppen närhet och distans till sig själv och gruppen. Vad innebär detta?"
+        },
+        {
+            "id":19,
+            "text":"Förklara kort gruppens utvecklingsfaser samt hur du som ledare och deltagare kan underlätta gruppens utveckling."
+        },
+        {
+            "id":20,
+            "text":"En grupprocess kan delas in i ett antal olika faser. Vilka är dessa och vad innebär de? Hur kan kunskapen om grupprocessens olika faser användas?"
+        },
+        {
+            "id":21,
+            "text":"Susan Wheelan förklarar gruppens utveckling i ett antal faser, förklara dessa!"
+        },
+        {
+            "id":22,
+            "text":"Obehaget att konfrontera andra eller sig själv kan leda till att du som individ tillämpar olika försvarsmekanismer för att fly det egentliga problemet, t.ex. inta rollen som ”Förnekare”. Förklara de sex olika försvarsmekanismer som diskuterats i kursen"
+        },
+        {
+            "id":23,
+            "text":"Förmågan att dela med sig av erfarenheter är centralt i allt utvecklingsarbete. Förklara Joharis fönster!"
+        },
+        {
+            "id":24,
+            "text":"Förklara John P Kotters modell med 8 steg för att lyckas med förändringsprocesser."
+        },
+        {
+            "id":25,
+            "text":"Förklara begreppet ”Participativergonomi” (kan även liknas vid delaktighet eller empowerment)!"
+        },
+        {
+            "id":26,
+            "text":"David A. Kolb har tagit fram en modell för erfarenhetsbaserat lärande bestående av ett antal steg. Rita upp Kolbs modell för erfarenhetsbaserat lärande och förklara kortfattat de olika stegen!"
+        },
+        {
+            "id":27,
+            "text":"Beskriv PDSA cykeln som modell för effektivt förändringsarbete med stöd av en figur!"
+        },
+        {
+            "id":28,
+            "text":"Kompetens kan förklaras som den potentiella handlingsförmågan i relation till en uppgift, och består av fem olika faktorer. Vilka är dessa?"
+        },
+        {
+            "id":29,
+            "text":"Förklara minst fem viktiga variabler för ett kreativt arbetsklimat utifrån Göran Ekvalls teori."
+        },
+        {
+            "id":30,
+            "text":"En effektiv förändringsprocess kan förklaras som en lärandeprocess i ett antal steg. Rita en figur över processen samt förklara utförligt de ingående stegen i figuren med stöd av olika begrepp och teorier!"
+        },
+        {
+            "id":31,
+            "text":"Rita och beskriv modellen Kärnkvaliteter och kärnkvadranten (Core Quadrant) av Daniel D. Ofman. Använd exempel och förklara på hur modellen kan användas för att utveckla dina egenskaper."
+        },
+        {
+            "id":32,
+            "text":"Sätt ihop en generell agenda för ett utvecklingssamtal (du ska bland annat fått ta del av hård kritik riktad gentemot samtalspartnern). Motivera de olika stegen."
+        },
+        {
+            "id":33,
+            "text":"Rita upp en feedbacktrappa"
+        },
+        {
+            "id":34,
+            "text":"Resonera hur du kan agera för att utveckla dig med stöd av begrepp för olika zoner (trygghet, utveckling, farliga zonen), Joharis fönster och feedback."
+        },
+        {
+            "id":35,
+            "text":"MOOC - Beskriv fenomenet och möjligheter med onlinekurser. Eventuella fördelar?"
+        },
+        {
+            "id":36,
+            "text":"Visualisering är ett viktigt inslag i allt projektarbete. Varför är visualisering viktigt? Ge exempel på metoder och tekniska lösningar för att stödja olika faser och situationer i projektarbetet!"
+        },
+        {
+            "id":37,
+            "text":"Valet av visualiseringsmetod beror på vilket syfte och vilka förutsättningar som finns. Tänk dig att du är en projektledare för en grupp personer med olika kompetensområden. Ge ett exempel på en situation, och motivera en visualiseringsmetod eller teknik som kan underlätta ert gemensamma arbete!"
+        },
+        {
+            "id":38,
+            "text":"Många system och kartläggningar blir ”hyllvärmare” istället för ett stödjande verktyg. Förklara med stöd av olika begrepp processen för att lyckas skapa ett stödjande verktyg (t.ex. ledningssystem, utbildningsmodul etc.)"
+        },
+        {
+            "id":39,
+            "text":"Användningen av bilder har många fördelar vid olika tillämpningar och kommunikation inom en organisation. Förklara olika centrala steg i en visualiseringsprocess för att skapa effektiva ändamålsenliga bilder eller system! Resonera med stöd av begrepp för lärande och kvalitetsarbete."
+        },
+        {
+            "id":40,
+            "text":"Förklara utförligt syftet med att kartlägga och visualisera processer. Resonera med stöd av figurer och begreppen humankapital och strukturkapital."
+        },
+        {
+            "id":41,
+            "text":"Vad är poängen med att använda sig av visualisering i förändringsarbete respektive dokumentation och riktlinjer? Ge även två exempel på visualisering!"
+        },
+        {
+            "id":42,
+            "text":"Förklara innebörden av ”Industri 4.0”och vilka starka utvecklingstrender som finns inom industrin."
+        },
+        {
+            "id":43,
+            "text":"Vad går Roland Paulsens kritik mot arbetssamhället ut på?"
+        },
+        {
+            "id":44,
+            "text":"Aktivitetsbaserade kontor/arbetsplatser –möjligheter och risker?"
+        },
+        {
+            "id":45,
+            "text":"Age management –vad innebär det, och vad är viktigt att tänka på?"
+        },
+        {
+            "id":46,
+            "text":"Lean Six Sigma består av metodikerna LEAN och Six Sigma. Beskriv dessa två metodiker kortfattat och förklara vad som är bra med att använda bägge metodiker."
+        },
+        {
+            "id":47,
+            "text":"Jehn gör en uppdelning av konflikter i tre typer. Vilka är dessa och vad innebär de? Namnge, beskriv ge ett exempel per konflikt."
+        },
+        {
+            "id":48,
+            "text":"Det agila arbetssättet lämpar sig i fler branscher än IT-branschen. Hade detta arbetssätt kunnat lämpa sig i företag som arbetar med möbeldesign, så som IKEA? Motivera ditt svar!"
+        },
+        {
+            "id":49,
+            "text":"Nämn minst två krav som millennials ställer på sin ledare respektive sin arbetsplats"
+        },
+        {
+            "id":50,
+            "text":"Hur skapar man en hållbar CSR-policy inom ett företag?"
+        },
+        {
+            "id":51,
+            "text":"Vilka tre aspekter är viktigast för ett företag att ta i beaktning vid en digitaliseringsprocess?"
+        },
+        {
+            "id":52,
+            "text":"Vad är ett EVP och vad krävs för att utveckla ett framgångsrikt/effektivt EVP?"
+        },
+        {
+            "id":53,
+            "text":"Vilka tre perspektiv är viktiga att ha i åtanke vid implementering av Aktivitetsbaserat Kontorslandskap (ABW)?"
+        }
+    ]
+}
